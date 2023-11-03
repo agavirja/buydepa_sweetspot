@@ -74,7 +74,7 @@ html = """
     <div class="card-body p-3">
       <div class="row">
         <div class="numbers">
-          <h3 class="font-weight-bolder mb-0" style="text-align: center; font-size: 1.5rem;border-bottom: 0.5px solid #ccc; padding-bottom: 8px;">Trasnacciones depas 2023</h3>
+          <h3 class="font-weight-bolder mb-0" style="text-align: center; font-size: 1.5rem;border-bottom: 0.5px solid #ccc; padding-bottom: 8px;">Transacciones depas 2023</h3>
         </div>
       </div>
     </div>

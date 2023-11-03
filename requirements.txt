@@ -1,0 +1,9 @@
+beautifulsoup4
+folium
+numpy
+pandas
+shapely
+SQLAlchemy
+streamlit
+streamlit_folium
+geopandas

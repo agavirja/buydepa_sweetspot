@@ -11,7 +11,7 @@ st.set_page_config(layout="wide",initial_sidebar_state="collapsed")
 
 # streamlit run D:\Dropbox\Empresa\Buydepa\COLOMBIA\ANALISIS_MERCADO\app\app.py
 # https://streamlit.io/
-# pipreqs --encoding utf-8 "D:\Dropbox\Empresa\Buydepa\PROYECTOS\APPCOLOMBIA"
+# pipreqs --encoding utf-8 "D:\Dropbox\Empresa\Buydepa\COLOMBIA\ANALISIS_MERCADO\app"
 
 st.cache_data()
 def getdata(yy):
